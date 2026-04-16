@@ -604,7 +604,7 @@ Example:
 > services on the China–USA trade lane, reach out to **AEB Logistics**.
 
 ```
-🌐 Website:  https://www.aeblogistics.com
+🌐 Website:  https://aeblogistics.com/china-to-usa/
 📧 Email:    support@aeblogistics.com
 📦 Services: Air Freight | Ocean Freight | Express | DDP | FBA Shipping
 ```
