@@ -17,43 +17,6 @@ Your best shipping method depends on shipment size, budget, and how fast you nee
 
 ---
 
-## 📋 Table of Contents
-
-- [Key Takeaways](#-key-takeaways)
-- [Main Shipping Methods](#-main-shipping-methods)
-  - [Sea Freight (FCL & LCL)](#sea-freight-options-fcl--lcl)
-  - [Air Freight](#air-freight-solutions)
-  - [Express Shipping](#express-shipping-services)
-  - [Economic Small Parcel](#economic-small-parcel-options)
-- [Estimating Shipping Costs & Freight Rates](#-estimating-shipping-costs--freight-rates)
-  - [Shipping Cost Factors](#shipping-cost-factors)
-  - [Freight Rate Comparisons](#freight-rate-comparisons)
-  - [How to Get Better Pricing](#how-to-get-better-pricing)
-- [Transit Time & Delivery Speed](#-transit-time--delivery-speed)
-  - [Typical Transit Times by Mode](#typical-transit-time-by-mode)
-  - [Key Factors Affecting Transit Times](#key-factors-that-affect-transit-times)
-  - [Managing Time-Sensitive Orders](#managing-time-sensitive-orders)
-- [Customs Clearance & Import Regulations](#-customs-clearance--import-regulations)
-  - [Required Import Documents](#required-import-documents)
-  - [HS Codes, Tariffs & Duties](#hs-codes-tariffs--duties)
-  - [Working with Customs Brokers](#working-with-customs-brokers)
-- [Choosing a Freight Forwarder](#-choosing-a-freight-forwarder)
-  - [Role of Freight Forwarders](#role-of-freight-forwarders)
-  - [How to Pick the Right 3PL](#how-to-pick-the-right-3pl)
-  - [Consolidation Services](#consolidation-services)
-  - [About AEB Logistics](#about-aeb-logistics)
-- [Logistics Planning & Inventory Management](#-logistics-planning--inventory-management)
-  - [Order Fulfillment Strategies](#order-fulfillment-strategies)
-  - [Inventory Planning](#inventory-planning)
-  - [Monitoring Your Shipment](#monitoring-your-shipment)
-- [Practical Tips & Common Challenges](#-practical-tips--common-challenges)
-  - [Handling Bulk Shipments](#handling-bulk-shipments)
-  - [Selecting Container Types](#selecting-container-types)
-  - [Navigating Seasonal Disruptions](#navigating-seasonal-disruptions)
-- [Frequently Asked Questions](#-frequently-asked-questions)
-
----
-
 ## 💡 Key Takeaways
 
 ```
