@@ -1,5 +1,5 @@
 ---
-title: "Air Freight Shipping from China to USA: Complete Guide &amp; Costs"
+title: "Air Freight Shipping from China to USA: Complete Guide & Costs"
 date: "2026-01-11"
 author: AEB Logistics
 categories: [Shipping China to USA]
