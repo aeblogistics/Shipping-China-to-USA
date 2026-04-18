@@ -6,8 +6,6 @@ categories: []
 tags: []
 slug: "china-to-usa"
 featured_image: "https://aeblogistics.com/wp-content/uploads/2025/10/aioseo-ai-a-dynamic-professional-s-medium-auto-landscape-20251025-023709.png"
-modified: "2026-03-21"
-permalink: "https://aeblogistics.com/china-to-usa/"
 ---
 
 \[vc\_row full\_width=”stretch\_row” el\_class=”hang-overs hang-right”\]\[vc\_column width=”1/2″\]\[vc\_single\_image image=”21468″ img\_size=”full” alignment=”center” css\_animation=”bounceIn” el\_class=”china\_to\_usa\_img”\]\[/vc\_column\]\[vc\_column width=”1/2″\]\[vc\_column\_text css=””\]Freight Forwarder from China to USA led by [Alan Fan](https://aeblogistics.com/alan-fan-china-to-usa-shipping/), a former global carrier executive with 20+ years in China–USA trade lanes.\[/vc\_column\_text\]\[vc\_column\_text css\_animation=”fadeIn” css=”” el\_class=”hang”\]
