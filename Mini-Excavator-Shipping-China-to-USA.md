@@ -11,7 +11,7 @@ author: AEB Logistics
 > Get comprehensive insights into mini excavator shipping China to USA, from choosing logistics to navigating customs and regulations.
 
 ---
-![Mini excavator loaded on a cargo ship at a busy port with cranes, sailing towards a distant city skyline.](mini-excavator-shipp/v2-1c5ju4-fmdsp.jpg)
+![Mini excavator loaded on a cargo ship at a busy port with cranes, sailing towards a distant city skyline.](https://aeblogistics.com/wp-content/uploads/2026/04/v2-1c5ju4-fmdsp.jpg)
 
 Mini Excavator Shipping China to USA is a hot topic for contractors and equipment buyers looking to save money. If you’re thinking about it, you probably know Chinese mini excavators cost 20-30% less than similar machines made in the West.
 
