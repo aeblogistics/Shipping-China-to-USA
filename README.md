@@ -1,24 +1,19 @@
 ---
-title: Freight Forwarder from China to USA
-date: "2021-05-24"
-author: AEB Logistics
-categories: []
+created: 2026-04-19T10:10:59 (UTC +08:00)
 tags: []
-slug: "china-to-usa"
-featured_image: "https://aeblogistics.com/wp-content/uploads/2025/10/aioseo-ai-a-dynamic-professional-s-medium-auto-landscape-20251025-023709.png"
+source: https://aeblogistics.com/china-to-usa/
+author: 
 ---
 
-\[vc\_row full\_width=”stretch\_row” el\_class=”hang-overs hang-right”\]\[vc\_column width=”1/2″\]\[vc\_single\_image image=”21468″ img\_size=”full” alignment=”center” css\_animation=”bounceIn” el\_class=”china\_to\_usa\_img”\]\[/vc\_column\]\[vc\_column width=”1/2″\]\[vc\_column\_text css=””\]Freight Forwarder from China to USA led by [Alan Fan](https://aeblogistics.com/alan-fan-china-to-usa-shipping/), a former global carrier executive with 20+ years in China–USA trade lanes.\[/vc\_column\_text\]\[vc\_column\_text css\_animation=”fadeIn” css=”” el\_class=”hang”\]
+# Freight Forwarder from China to USA
 
-## Shipping China to USA
+> ## Excerpt
+> Looking for efficient and cost-effective freight forwarder from China to USA? AEB Logistics offers air and ocean shipping options.
 
-\[/vc\_column\_text\]\[vc\_empty\_space height=”100px”\]\[vc\_column\_text css\_animation=”bounceInUp” css=””\] **Competitive pricing and transparent quotes**
+---
+Navigating the complexities of [shipping from China to United States](https://aeblogistics.com/freight-from-china-to-the-usa/) requires a strategic partner. Choosing the right [freight forwarder from China to USA](https://aeblogistics.com/freight-forwarder-from-china-to-the-usa/) is crucial for balancing cost, speed, and reliability. Whether your priorities lean towards the swift delivery of air freight or the cost-efficiency of ocean shipping, a qualified forwarder manages the entire process—from customs clearance to final delivery. They provide tailored logistics solutions, ensuring your goods arrive safely and on time, making international trade seamless and efficient for your business. Trust in expertise to optimize your supply chain.
 
- **Expertise in international shipping and customs clearance**
-
- **Specialized Amazon FBA forwarding services**\[/vc\_column\_text\]\[vc\_btn title=”Get a Quote” style=”classic” shape=”square” link=”url:%2Fsign-up%2F|||”\]\[/vc\_column\]\[/vc\_row\]\[vc\_row el\_class=”faq”\]\[vc\_column\]\[vc\_separator\]\[vc\_raw\_html css=””\]JTNDc2NyaXB0JTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZrb2FsYS5zaCUyRmFwaSUyRmVtYmVkLW1hZ25ldCUyRjY2MmU2NzA1LWY5ODUtNGI5OS1hYzAwLWM5ZTYzNGFlNmU2YSUyRiUyMiUyMGFzeW5jJTNFJTNDJTJGc2NyaXB0JTNF\[/vc\_raw\_html\]\[vc\_column\_text css=””\]Navigating the complexities of [shipping from China to United States](https://aeblogistics.com/freight-from-china-to-the-usa/) requires a strategic partner. Choosing the right [freight forwarder from China to USA](https://aeblogistics.com/freight-forwarder-from-china-to-the-usa/) is crucial for balancing cost, speed, and reliability. Whether your priorities lean towards the swift delivery of air freight or the cost-efficiency of ocean shipping, a qualified forwarder manages the entire process—from customs clearance to final delivery. They provide tailored logistics solutions, ensuring your goods arrive safely and on time, making international trade seamless and efficient for your business. Trust in expertise to optimize your supply chain.\[/vc\_column\_text\]\[vc\_column\_text\]
-
-\[/vc\_column\_text\]\[vc\_video link=”https://www.youtube.com/watch?v=qcJ2MRgFgCc” css=”” title=”Freight forwarder China to USA – AEB Logistics”\]\[vc\_column\_text css=””\]
+<iframe loading="lazy" title="Freight forwarder China to USA - AEB Logistics" width="500" height="281" src="https://www.youtube.com/embed/qcJ2MRgFgCc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 ## Freight Forwarder vs. Shipping Agent: Understanding the Key Partner for Your Shipment
 
@@ -30,63 +25,73 @@ A Shipping Agent often specifically refers to a company’s representative in a 
 
 For you, the importer, the result is the same: you hire a company—a freight forwarder China to US—to manage the complex logistics of getting your goods from point A to point B. They consolidate your expertise into a single point of contact, handling everything from booking cargo space to customs clearance and final delivery.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## The Step-by-Step Process of Shipping Freight from China to USA
 
-﻿
+<iframe src="https://www.youtube.com/embed/Dp2RirlIG7U" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><br></iframe>
 
-Shipping freight from China to the USA isn’t just about moving boxes. Each stage requires careful planning and coordination.
+[Shipping freight](https://aeblogistics.com/freight-shipping-from-china-to-usa/) from China to the USA isn’t just about moving boxes. Each stage requires careful planning and coordination.
 
 **Production and Preparation Phase**
+
 Start with completed manufacturing in China. Once your products pass quality checks, they’re ready for shipping freight from China to the USA.
 
 **Carrier Booking and Paperwork Creation**
-You or your [logistics partner](https://aeblogistics.com/freight-forwarder-china-to-usa/) reserve cargo space with a carrier. At this point, you’ll need to prepare key documents:
 
-- **Commercial Invoice** – lists product values and descriptions.
-- **Packing List** – details quantities and contents.
-- **Bill of Lading** – your receipt and shipping contract for ocean freight.
-- **Air Waybill** – the air cargo equivalent.
+You or your [logistics partner](https://aeblogistics.com/freight-forwarder-china-to-usa/) reserve cargo space with a carrier. At this point, you’ll need to prepare key documents:
+
+-   **Commercial Invoice** – lists product values and descriptions.
+-   **Packing List** – details quantities and contents.
+-   **Bill of Lading** – your receipt and shipping contract for [ocean freight](https://aeblogistics.com/sea-shipping-from-china-to-usa/).
+-   **Air Waybill** – the air cargo equivalent.
 
 **Chinese Port Processing**
+
 Your goods travel from the factory to the port or airport. Chinese customs officials review everything for export clearance before departure.
 
 **International Transit**
+
 Cargo boards ships or planes for the journey to the USA.
 
 **American Arrival Operations**
+
 Once in the USA, shipments unload from carriers. LCL shipments go to warehouses for sorting.
 
 **U.S. Customs Processing**
+
 Customs brokers submit your paperwork to border protection. They handle duties and secure clearance for entry.
 
-**Final delivery arrangements** send your cleared goods by truck to your chosen address.
+**Final delivery arrangements** send your cleared goods by truck to your chosen address.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Door-to-Door and DDP Shipping Solutions from the Best Shipping Company from China to USA
 
 Door-to-door shipping means your shipment goes from your supplier in China right to your US address. The company handles pickup, shipping, customs, and final delivery.
 
-**DDP ([Delivered Duty Paid](https://aeblogistics.com/ddp-shipping/))** means the shipping company covers everything—duties, taxes, customs fees. You get one price, with no surprises when your shipment arrives.
+**DDP ([Delivered Duty Paid](https://aeblogistics.com/ddp-shipping/))** means the shipping company covers everything—duties, taxes, customs fees. You get one price, with no surprises when your shipment arrives.
 
-These services are great if you don’t want to deal with logistics or paperwork. Your [freight forwarder](https://aeblogistics.com/freight-forwarder-in-china/) takes care of it all, so you have one point of contact and less hassle.
+These services are great if you don’t want to deal with logistics or paperwork. Your [freight forwarder](https://aeblogistics.com/freight-forwarder-in-china/) takes care of it all, so you have one point of contact and less hassle.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_video link=”https://www.youtube.com/watch?v=TKv5ipiAaZY” css=”” title=”Understanding DDP Shipping Risk”\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
+
+## Understanding DDP Shipping Risk
+
+<iframe loading="lazy" title="Understanding DDP Shipping Risk - AEB Logistics" width="500" height="281" src="https://www.youtube.com/embed/TKv5ipiAaZY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 ## The Reality of DDP Shipping Risk From China
 
-Many suppliers on Alibaba and other platforms don’t fully understand what [delivered duty paid](https://aeblogistics.com/ddp-shipping/) actually means. They might offer [DDP shipping](https://aeblogistics.com/shipping-freight-from-china/) but skip proper customs clearance. Instead, they use tricks to avoid paying the full duties and taxes you owe.
+Many suppliers on Alibaba and other platforms don’t fully understand what [delivered duty paid](https://aeblogistics.com/ddp-shipping/) actually means. They might offer [DDP shipping](https://aeblogistics.com/shipping-freight-from-china/) but skip proper customs clearance. Instead, they use tricks to avoid paying the full duties and taxes you owe.
 
-- Marking packages with low declared values
-- Using the wrong HTS codes to lower tariff rates
-- Claiming goods qualify for de minimis exemption when they don’t
-- Shipping without proper [customs paperwork](https://aeblogistics.com/shipping-quote/)
+-   Marking packages with low declared values
+-   Using the wrong HTS codes to lower tariff rates
+-   Claiming goods qualify for de minimis exemption when they don’t
+-   Shipping without proper [customs paperwork](https://aeblogistics.com/shipping-quote/)
 
 These actions amount to smuggling, even if the supplier thinks they’re helping you cut costs. Some see it as just undervaluing small packages, like they’ve always done.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Air Freight vs. Ocean Freight from China to USA
 
@@ -94,119 +99,127 @@ These actions amount to smuggling, even if the supplier thinks they’re helping
 
 On the other hand, ocean freight is a more cost-effective solution for transporting goods between China and the US, particularly for larger or heavier shipments. Although it is much slower, with transit times ranging from weeks to over a month, the lower costs make it an attractive option for businesses with less pressing deadlines. Ocean freight is often the preferred choice for bulk shipments, as it can handle large quantities of goods at a fraction of the cost of air freight.
 
-Ultimately, the choice between air and ocean freight depends on factors such as shipment urgency, budget constraints, and the nature of the goods being transported. By evaluating these considerations, businesses can select the shipping method that best aligns with their logistical and financial needs.
+Ultimately, the choice between air and ocean freight depends on factors such as shipment urgency, budget constraints, and the nature of the goods being transported. By evaluating these considerations, businesses can select the [shipping method](https://aeblogistics.com/shipping-machinery-from-china-to-usa/) that best aligns with their logistical and financial needs.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”2″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Express Shipping from China to USA
 
-When it comes to shipping internationally, using an international courier, also referred to as express freight, is often the most reliable and efficient option. Renowned services like UPS, FedEx, and DHL are known for their speed and dependability, offering door-to-door delivery and tracking systems that provide peace of mind. This makes them an ideal choice for urgent shipments or high-value goods that require secure and timely delivery. These couriers have a global reach and streamlined customs processing, which helps minimize delays and ensures smooth international transit.
+When it comes to [shipping internationally](https://aeblogistics.com/best-shipping-company-from-china-to-usa/), using an international courier, also referred to as express freight, is often the most reliable and efficient option. Renowned services like UPS, FedEx, and DHL are known for their speed and dependability, offering door-to-door delivery and tracking systems that provide peace of mind. This makes them an ideal choice for urgent shipments or high-value goods that require secure and timely delivery. These couriers have a global reach and streamlined customs processing, which helps minimize delays and ensures smooth international transit.
 
-However, the convenience and speed of international couriers come at a cost, and it’s essential to be aware of potential pricing pitfalls. If you are not a registered customer with these courier companies, the charges can be significantly higher, often reaching astronomical amounts. Registered customers typically benefit from negotiated rates, volume discounts, or special pricing plans, making it advantageous for frequent shippers to establish accounts with these couriers. For occasional users, comparing rates across multiple couriers can help avoid unexpected expenses.
+However, the convenience and speed of [international couriers](https://aeblogistics.com/shanghai-freight-forwarder/) come at a cost, and it’s essential to be aware of potential pricing pitfalls. If you are not a registered customer with these courier companies, the charges can be significantly higher, often reaching astronomical amounts. Registered customers typically benefit from negotiated rates, volume discounts, or special pricing plans, making it advantageous for frequent shippers to establish accounts with these couriers. For occasional users, comparing rates across multiple couriers can help avoid unexpected expenses.
 
-Choosing the right courier depends on your shipping needs, budget, and the value of the goods being transported. Whether for business or personal use, understanding the cost structures and benefits of express freight services can help ensure an efficient and cost-effective international shipping experience.
+Choosing the right courier depends on your [shipping needs](https://aeblogistics.com/shipping-from-china-to-usa/), budget, and the value of the goods being transported. Whether for business or personal use, understanding the cost structures and benefits of express freight services can help ensure an efficient and cost-effective international shipping experience.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”3″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Air Freight Costs and Rates from China to USA
 
-When shipping goods internationally, cost is a critical factor in choosing the right freight option. Standard air freight is generally more affordable than express shipping, with rates typically $1-2 per kilogram lower. This difference makes standard air freight an attractive option for businesses looking to balance speed and cost. However, it’s essential to note that very light shipments, especially those with large dimensions relative to their weight, may be charged based on dimensional weight rather than actual weight. This pricing model accounts for the space a package occupies on the aircraft, potentially increasing the overall shipping cost.
+When shipping goods internationally, cost is a critical factor in choosing the right freight option. Standard air freight is generally more affordable than express shipping, with rates typically $1-2 per kilogram lower. This difference makes standard air freight an attractive option for businesses looking to balance speed and cost. However, it’s essential to note that very light shipments, especially those with large dimensions relative to their weight, may be charged based on dimensional weight rather than actual weight. This pricing model accounts for the space a package occupies on the aircraft, potentially increasing the overall [shipping cost](https://aeblogistics.com/china-to-usa-shipping-cost-and-time/).
 
-For larger shipment sizes, typically exceeding 200 kilograms, ocean freight options such as LCL (less than container load) can often provide a more economical solution. LCL allows businesses to share container space, paying only for the volume their goods occupy. This approach can be significantly cheaper than air freight, especially for bulkier items or shipments where speed is less critical. Exploring LCL ocean freight is a smart move for businesses aiming to optimize costs without compromising on reliability.
+For larger shipment sizes, typically exceeding 200 kilograms, ocean freight options such as LCL (less than container load) can often provide a more [economical solution](https://aeblogistics.com/lcl/). LCL allows businesses to share container space, paying only for the volume their goods occupy. This approach can be significantly cheaper than air freight, especially for bulkier items or shipments where speed is less critical. Exploring LCL ocean freight is a smart move for businesses aiming to optimize costs without compromising on reliability.
 
 Ultimately, the choice between air and ocean freight depends on shipment size, urgency, and budget. By comparing these options and understanding dimensional weight and LCL pricing, businesses can make informed decisions to reduce costs while meeting delivery requirements.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”4″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Sea Freight Costs and Rates from China to USA
 
 When shipping goods internationally, the weight of the shipment plays a crucial role in determining the most cost-effective method. For shipments exceeding 200 kilograms, ocean freight becomes the most affordable option due to its significant economies of scale. Modern cargo ships can transport as many as 20,000 twenty-foot containers, drastically reducing the cost per unit compared to air freight. This makes ocean freight ideal for businesses shipping large volumes or heavy items that do not require expedited delivery.
 
-For those seeking a balance between speed and cost, some freight forwarders provide a premium service known as expedited ocean freight. This service is slightly more expensive than standard ocean freight but significantly faster, making it a viable alternative to air freight for moderately time-sensitive shipments. Businesses that require quicker delivery without incurring the high costs of air freight often find expedited ocean freight to be a practical solution.
+For those seeking a balance between speed and cost, some [freight forwarders](https://aeblogistics.com/shenzhen-freight-forwarder/) provide a premium service known as expedited ocean freight. This service is slightly more expensive than standard ocean freight but significantly faster, making it a viable alternative to air freight for moderately time-sensitive shipments. Businesses that require quicker delivery without incurring the high costs of air freight often find expedited ocean freight to be a practical solution.
 
 It’s important to note that ocean freight rates can vary considerably between freight forwarders and are influenced by market conditions, fuel prices, and seasonal demand. Comparing quotes from multiple providers is essential to secure the best rates and services. By carefully evaluating their shipping needs and budget, businesses can optimize their logistics strategy while minimizing costs.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## How Can You Locate Budget-Friendly Sea Shipping Options from China to America?
 
-Looking for budget-friendly sea shipping from China to America? It’s not as tough as it sounds, but you do need to know where to look—and what to compare.
+Looking for [budget-friendly sea shipping](https://aeblogistics.com/shipping-from-china-to-usa-3/) from China to America? It’s not as tough as it sounds, but you do need to know where to look—and what to compare.
 
-Affordable sea freight options aren’t just about chasing the lowest base rate. There are lots of moving parts, and smart planning can trim your total shipping costs more than you might expect.
+Affordable sea freight options aren’t just about chasing the lowest base rate. There are lots of moving parts, and smart planning can trim your total [shipping costs](https://aeblogistics.com/china-to-usa-shipping/) more than you might expect.
 
 ### Cost-Saving Strategies for Budget-Friendly Sea Shipping:
 
-- Book [LCL shipments](https://aeblogistics.com/lcl/) if your cargo isn’t huge. LCL lets you pay for just the space you use, which is great for smaller loads.
-- Pick slower transit times if you’re not in a rush. Slower ships often mean cheaper rates.
-- Stay away from peak seasons when everyone’s scrambling to ship. Rates spike, so ship off-peak if you can swing it.
-- Consolidate shipments to fill containers all the way. If you can team up with someone else or bundle your own orders, you’ll usually pay less per unit.
+-   Book [LCL shipments](https://aeblogistics.com/lcl/) if your cargo isn’t huge. LCL lets you pay for just the space you use, which is great for smaller loads.
+-   Pick [slower transit times](https://aeblogistics.com/freight-forwarder-shenzhen-to-usa/) if you’re not in a rush. Slower ships often mean cheaper rates.
+-   Stay away from peak seasons when everyone’s scrambling to ship. Rates spike, so ship off-peak if you can swing it.
+-   [Consolidate shipments](https://aeblogistics.com/freight-forwarder-ningbo-to-usa/) to fill containers all the way. If you can team up with someone else or bundle your own orders, you’ll usually pay less per unit.
 
 ### Comparison Tips for Budget-Friendly Sea Shipping:
 
-1. Ask a few freight forwarders for quotes. Prices really do vary.
-2. Look at the total delivered cost, not just the ocean rate. Sometimes the extras add up fast.
-3. Some port pairs just work out cheaper. It’s worth checking a few options if your route is flexible.
-4. Ship regularly? Ask about volume discounts. Many companies offer better deals if you commit to more shipments.
-5. If you’re in it for the long haul, negotiate those contract terms. You can sometimes lock in better rates.
+1.  Ask a few freight forwarders for quotes. Prices really do vary.
+2.  Look at the total delivered cost, not just the ocean rate. Sometimes the extras add up fast.
+3.  Some port pairs just work out cheaper. It’s worth checking a few options if your route is flexible.
+4.  Ship regularly? Ask about volume discounts. Many companies offer better deals if you commit to more shipments.
+5.  If you’re in it for the long haul, negotiate those contract terms. You can sometimes lock in better rates.
 
 ### Booking Timing for Budget-Friendly Sea Shipping:
 
-- Try to book 2-3 weeks ahead. Early birds usually get better deals.
-- Skip Chinese holidays and the big rush seasons. Rates go up and space gets tight.
-- Keep an eye on rate trends. If you see prices dropping, it might be worth waiting a bit.
-- Got some wiggle room on your departure date? Flexibility can save you money.
+-   Try to book 2-3 weeks ahead. Early birds usually get better deals.
+-   Skip Chinese holidays and the big rush seasons. Rates go up and space gets tight.
+-   Keep an eye on rate trends. If you see prices dropping, it might be worth waiting a bit.
+-   Got some wiggle room on your departure date? Flexibility can save you money.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Costs and Pricing Factors for Cargo from China to USA
 
-Shipping costs from China to the USA sit at $2-8 per kilogram by air and $2,000-8,000 per container by sea. Your total [freight costs](https://aeblogistics.com/freight-forwarder-china-to-usa-2/) depend on more than just the base rate—surcharges and handling fees can sneak up on you.
+Shipping costs from China to the USA sit at $2-8 per kilogram by air and $2,000-8,000 per container by sea. Your total [freight costs](https://aeblogistics.com/freight-forwarder-china-to-usa-2/) depend on more than just the base rate—surcharges and handling fees can sneak up on you.
 
 ### Shipping Cost Breakdown for Cargo from China to USA
 
-Your [shipping quote](https://aeblogistics.com/shipping-quote/) usually has five main parts. **Origin charges** cover pickup, export docs, and warehouse handling in China.
+Your [shipping quote](https://aeblogistics.com/shipping-quote/) usually has five main parts. **Origin charges** cover pickup, export docs, and warehouse handling in China.
 
-**Main freight** is the actual shipping fee—by sea, air, or express courier. It’s usually the biggest part of your bill.
+**Main freight** is the actual shipping fee—by sea, air, or express courier. It’s usually the biggest part of your bill.
 
-**Destination charges** pay for US customs clearance, port handling, and delivery to your door. These fees change by city and service level.
+**Destination charges** pay for US customs clearance, port handling, and delivery to your door. These fees change by city and service level.
 
-Cost ComponentTypical RangeWhat’s IncludedOrigin charges$200-500Pickup, export docs, consolidationMain freight$2-8/kg air, $2,000-8,000/containerTransportation costDestination charges$300-1,500Customs, handling, deliverySurcharges10-30% of base rateFuel, security, peak seasonInsurance0.1-0.3% of valueCargo protection**Insurance** covers you if something goes wrong. Most forwarders offer it for 0.1-0.3% of your cargo’s declared value.
+|Cost Component|Typical Range|What’s Included|
+|---|---|---|
+|Origin charges|$200-500|Pickup, export docs, consolidation|
+|Main freight|$2-8/kg air, $2,000-8,000/container|Transportation cost|
+|Destination charges|$300-1,500|Customs, handling, delivery|
+|Surcharges|10-30% of base rate|Fuel, security, peak season|
+|Insurance|0.1-0.3% of value|Cargo protection|
+
+**Insurance** covers you if something goes wrong. Most forwarders offer it for 0.1-0.3% of your cargo’s declared value.
 
 ### What Affects Freight Rates for Cargo from China to USA?
 
 Weight and volume drive your price—carriers use “dimensional weight” and charge for whichever is higher. If your cargo is light but big, you’ll pay for the space it takes up.
 
-Distance and route matter too. [Shipping to Los Angeles](https://aeblogistics.com/shipping-from-china-to-the-usa-3/) usually costs less than going all the way to New York or Miami.
+Distance and route matter too. [Shipping to Los Angeles](https://aeblogistics.com/shipping-from-china-to-the-usa-3/) usually costs less than going all the way to New York or Miami.
 
-**Cargo type** can change the rate. Electronics, textiles, and machinery all get different handling and pricing.
+**Cargo type** can change the rate. Electronics, textiles, and machinery all get different handling and pricing.
 
 Peak season creates big price jumps. Rates can spike 30-50% from August to October, and again around Chinese New Year.
 
-How fast you need your cargo from China to USA decides your options. Express costs 2-3 times more than sea freight, but arrives in a week instead of a month.
+How fast you need your [cargo from China](https://aeblogistics.com/china-to-usa-shipping-2/) to USA decides your options. Express costs 2-3 times more than sea freight, but arrives in a week instead of a month.
 
 ### Hidden and Extra Charges for Cargo from China to USA
 
-**Fuel surcharges** add 10-25% to your [freight bill](https://aeblogistics.com/shipping-from-china-to-america/). They move up or down with oil prices and hit all shipping types.
+**Fuel surcharges** add 10-25% to your [freight bill](https://aeblogistics.com/shipping-from-china-to-america/). They move up or down with oil prices and hit all shipping types.
 
-**Terminal handling charges** at ports usually run $100-400 per container. Busy ports sometimes add congestion fees during rush periods.
+**Terminal handling charges** at ports usually run $100-400 per container. Busy ports sometimes add congestion fees during rush periods.
 
-**Documentation fees** for customs, bills of lading, and certificates cost $50-200 per shipment. DDP shipping rolls these into the total price.
+**Documentation fees** for customs, bills of lading, and certificates cost $50-200 per shipment. DDP shipping rolls these into the total price.
 
 Peak season surcharges can tack on $500-2,000 per container. Security, inspections, and detention for late returns all mean extra costs.
 
 Currency adjustments and bunker charges often show up as extra line items. Always ask for detailed quotes so you know what you’re really paying for your cargo from China to USA.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”7″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Express Shipping Options
 
-When shipping from China via international courier, businesses and individuals can typically expect delivery within 3-5 days. This time frame includes either picking up the parcel directly from the Chinese supplier’s location or receiving it after the supplier has dropped it off at the courier’s local depot. International couriers like DHL, FedEx, and UPS ensure efficient, door-to-door service, making this method a reliable choice for time-sensitive shipments. The quick turnaround is particularly advantageous for e-commerce businesses, small shipments, or urgent samples.
+When shipping from China via international courier, businesses and individuals can typically expect delivery within 3-5 days. This time frame includes either picking up the parcel directly from the Chinese supplier’s location or receiving it after the supplier has dropped it off at the courier’s local depot. International couriers like DHL, FedEx, and UPS ensure efficient, [door-to-door service](https://aeblogistics.com/shenzhen-to-new-york-shipping/), making this method a reliable choice for time-sensitive shipments. The quick turnaround is particularly advantageous for e-commerce businesses, small shipments, or urgent samples.
 
-For shipments that require even faster delivery, premium express services are available. These options, while more expensive, can deliver parcels in as little as 24 hours, depending on the destination. Such services are ideal for critical or high-value shipments where every hour counts. They often include features like real-time tracking, prioritized handling, and dedicated customer support to ensure peace of mind for the shipper. While costly, premium courier services are often worth the investment for urgent or high-priority goods.
+For shipments that require even faster delivery, [premium express services](https://aeblogistics.com/ningbo-freight-forwarder/) are available. These options, while more expensive, can deliver parcels in as little as 24 hours, depending on the destination. Such services are ideal for critical or high-value shipments where every hour counts. They often include features like real-time tracking, prioritized handling, and dedicated customer support to ensure peace of mind for the shipper. While costly, premium courier services are often worth the investment for urgent or high-priority goods.
 
 Whether you choose standard international courier or opt for premium services, the efficiency and convenience of this shipping method make it a popular choice for those needing swift and reliable delivery from China to global destinations, including the United States.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”8″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Air Freight from China to USA
 
@@ -216,7 +229,7 @@ The intricate nature of standard air freight stems from the need for meticulous 
 
 For businesses and individuals shipping goods from China to the US, understanding the differences in air freight services is essential. By planning ahead and accounting for these complexities, shippers can optimize their logistics, ensuring smooth and timely delivery while managing costs effectively.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”9″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Ocean Freight from China to USA
 
@@ -230,7 +243,7 @@ Ocean freight also has a premium service. Depending on shipment requirements, ex
 
 Expedited freight works by streamlining ocean freight processes and by only tying in with the faster ocean services and premium trucking services. That makes expedited freight a great new option when shipping from China.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”10″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Efficient and cost-effective logistics services by AEB Logistics
 
@@ -240,17 +253,17 @@ When it comes to shipping China to USA, choosing the right freight forwarder is 
 
 With years of experience and a commitment to customer satisfaction, we make shipping China to USA a hassle-free process. Trust us to handle every step of your supply chain, from origin to destination, ensuring your goods arrive on time and in excellent condition.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Shipping from China to USA: Payment Methods and Billing
 
-Freight companies offer different [payment options](https://aeblogistics.com/payment/) to fit your shipping from China to USA needs. **Wire transfers** are the go-to for most international deals, but **PayPal** is handy for smaller shipments.
+Freight companies offer different [payment options](https://aeblogistics.com/payment/) to fit your shipping from China to USA needs. **Wire transfers** are the go-to for most international deals, but **PayPal** is handy for smaller shipments.
 
-Big orders sometimes use **letters of credit**. If you’re an established customer, you might get to pay by **ACH transfer**.
+Big orders sometimes use **letters of credit**. If you’re an established customer, you might get to pay by **ACH transfer**.
 
-Most companies ask for full payment before your [shipment leaves](https://aeblogistics.com/shipping-from-china-to-usa/) China. Some businesses with a track record can get 30-day payment terms. For really large shipments, partial deposits help keep your cash flow healthy.
+Most companies ask for full payment before your [shipment leaves](https://aeblogistics.com/shipping-from-china-to-usa/) China. Some businesses with a track record can get 30-day payment terms. For really large shipments, partial deposits help keep your cash flow healthy.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Customs Clearance and Documentation Guide
 
@@ -258,34 +271,34 @@ Most companies ask for full payment before your [shipment leaves](https://aeblog
 
 Standard Documentation:
 
-- Commercial invoice (3 copies minimum)
-- Packing list with detailed contents
-- Export license (for controlled goods)
-- Certificate of origin
-- Inspection certificate (if required)
+-   Commercial invoice (3 copies minimum)
+-   Packing list with detailed contents
+-   Export license (for controlled goods)
+-   Certificate of origin
+-   Inspection certificate (if required)
 
 [China-Specific Requirements](https://aeblogistics.com/shipping-from-china-to-usa-4/):
 
-- Export cargo transportation insurance policy
-- Foreign exchange verification documents
-- Tax refund documentation (if applicable)
+-   Export cargo transportation insurance policy
+-   Foreign exchange verification documents
+-   Tax refund documentation (if applicable)
 
 ### USA Import Requirements
 
 Mandatory Filings:
 
-- ISF (Importer Security Filing): Required 24 hours before vessel departure for ocean shipments
-- Entry Summary (Form 7501): Filed within 15 days of arrival
-- Power of Attorney: Authorizing customs broker to act on your behalf
+-   ISF (Importer Security Filing): Required 24 hours before vessel departure for ocean shipments
+-   Entry Summary (Form 7501): Filed within 15 days of arrival
+-   Power of Attorney: Authorizing customs broker to act on your behalf
 
 Common Import Documents:
 
-- Bill of lading or airway bill
-- Commercial invoice
-- Packing list
-- Certificate of origin (for preferential duty rates)
-- FDA registration (for food, drugs, cosmetics)
-- FCC certification (for electronic devices)
+-   Bill of lading or airway bill
+-   Commercial invoice
+-   Packing list
+-   Certificate of origin (for preferential duty rates)
+-   FDA registration (for food, drugs, cosmetics)
+-   FCC certification (for electronic devices)
 
 ### Duties and Taxes Calculation
 
@@ -303,25 +316,23 @@ You will be assessed a Merchandise Processing Fees (MPF) whether you are shippin
 
 For shipping to Amazon FBA, all fees will be paid before your cargo reaches an FBA center, as Amazon cannot be billed for any amount.
 
-Import duties vary by product classification (HTS code) and country of origin. Common duty rates for [Chinese goods](https://aeblogistics.com/shipping-from-china-to-the-usa-2/) range from 0% to 25%, with additional anti-dumping duties on specific products.
+Import duties vary by product classification (HTS code) and country of origin. Common duty rates for [Chinese goods](https://aeblogistics.com/shipping-from-china-to-the-usa-2/) range from 0% to 25%, with additional anti-dumping duties on specific products.
 
 Example Calculation:
 
-- Product value: $10,000
-- Applicable duty rate: 7.5%
-- Ocean freight: $500
-- Insurance: $100
-- Duty base: $10,000 (CIF value)
-- Customs duty: $750
-- Merchandise Processing Fee: $25
-- Harbor Maintenance Fee: $1.25
-- Total: $776.25
+-   Product value: $10,000
+-   Applicable duty rate: 7.5%
+-   Ocean freight: $500
+-   Insurance: $100
+-   Duty base: $10,000 (CIF value)
+-   Customs duty: $750
+-   Merchandise Processing Fee: $25
+-   Harbor Maintenance Fee: $1.25
+-   Total: $776.25
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ## Frequently Asked Questions About Shipping from China to USA
-
-\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”6″\]
 
 ### How Long Does It Take to Ship from China?
 
@@ -331,7 +342,7 @@ However, it is important to note that these lead times can be influenced by vari
 
 To ensure accurate and realistic timelines, consulting with a reliable logistics provider is highly recommended. They can offer updated information and help navigate potential disruptions, ensuring shipments arrive as planned. Staying informed and adaptable is key to maintaining smooth supply chain operations.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”11″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### What types of goods do you ship from China to USA?
 
@@ -341,7 +352,7 @@ In addition to standard shipments, we specialize in managing large and bulky ite
 
 With our extensive experience and commitment to quality service, we provide tailored shipping options to meet your specific needs. Whether you’re a small business or a large corporation, we ensure that your goods, regardless of size or type, are shipped efficiently and securely. Partner with us for reliable, comprehensive shipping solutions that cater to a diverse range of products and logistical challenges.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=””\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### How Can Air Freight Be Cheaper Than Sea Freight?
 
@@ -351,13 +362,13 @@ When shipping freight from China to the US, this balance between base and variab
 
 Consulting with experts can help clarify these complexities. Reach out to your account manager at AEB Logistics to analyze your shipment needs and identify the most cost-effective freight options for shipping from China to the US.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”12″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### How do I get a quote for shipping from China to USA?
 
 You can easily request a free shipping quote on our website by filling out our quote form with your shipment details. We will respond with a quote within 24 hours.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”13″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### What are your shipping options?
 
@@ -367,19 +378,19 @@ Sea freight, on the other hand, is a more economical option for transporting lar
 
 We work closely with you to determine the most suitable freight option based on your shipment’s size, weight, and time constraints. Our goal is to provide tailored logistics solutions that balance cost, efficiency, and your specific requirements for a seamless shipping experience.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”14″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### Do you provide shipping insurance?
 
 Yes, we can provide shipping insurance for your shipment to protect against loss or damage during transit.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”15″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### Do you provide customs clearance services?
 
 Yes, we provide customs clearance services to ensure that your shipment clears customs smoothly and efficiently.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”16″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### Do you have experience in shipping to Amazon FBA warehouses?
 
@@ -389,7 +400,7 @@ Partnering with a reliable FBA forwarder is essential to streamline your supply 
 
 By choosing a trusted partner for shipping to Amazon FBA, you gain access to a network of logistics professionals dedicated to making the process hassle-free. With our comprehensive solutions and industry knowledge, we help businesses optimize their shipping strategies, ensuring products reach Amazon FBA warehouses promptly and in perfect condition.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”17″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### What sets AEB Logistics apart from other freight forwarders?
 
@@ -399,16 +410,16 @@ As a leading freight forwarder China to USA, AEB Logistics prioritizes customer 
 
 Choosing AEB Logistics for shipping China to USA means partnering with a team committed to excellence. Our dedication to efficiency and reliability ensures your shipments arrive on time and in perfect condition, giving you peace of mind every step of the way.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”18″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### What documentation is required for international shipments?
 
 The documentation required for international shipments can vary depending on the countries involved and the nature of the goods being shipped. Some common documents include commercial invoices, packing lists, bills of lading, and certificates of origin. AEB Logistics can provide guidance and assistance with all necessary documentation.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_column\_text css=”” el\_id=”19″\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
 
 ### How do I track my shipment?
 
 AEB Logistics provides [real-time tracking information](https://support.aeblogistics.com/article/can-i-track-my-shipment) for all shipments, allowing you to monitor the progress of your cargo from origin to destination. You can access tracking information through our online portal or by contacting your account manager.
 
-[Back to Top](#top)\[/vc\_column\_text\]\[vc\_separator\]\[vc\_column\_text\][Back to Top](#top)\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]
+[Back to Top](https://aeblogistics.com/china-to-usa/#top)
