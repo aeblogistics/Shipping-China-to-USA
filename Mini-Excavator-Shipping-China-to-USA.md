@@ -5,7 +5,7 @@ source: https://aeblogistics.com/mini-excavator-shipping-china-to-usa/
 author: AEB Logistics
 ---
 
-# Mini Excavator Shipping China to
+# Mini Excavator Shipping China to USA
 
 > ## Excerpt
 > Get comprehensive insights into mini excavator shipping China to USA, from choosing logistics to navigating customs and regulations.
