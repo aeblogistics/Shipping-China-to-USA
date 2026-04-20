@@ -5,7 +5,7 @@ source: https://aeblogistics.com/china-to-usa-ocean-freight-case-study-end-to-en
 author: AEB Logistics
 ---
 
-# China to USA Ocean Freight Case
+# China to USA Ocean Freight Case Study: End-to-End Logistics Execution for Industrial Machinery
 
 > ## Excerpt
 > Gain expert tips on managing China to USA ocean freight, from container optimization to customs compliance, ensuring smooth and cost-effective delivery.
