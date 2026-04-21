@@ -5,7 +5,7 @@ source: https://aeblogistics.com/exercise-equipment-shipping-china-to-usa/
 author: AEB Logistics
 ---
 
-# Exercise Equipment Shipping China
+# Exercise Equipment Shipping China to USA: Complete Import Guide
 
 > ## Excerpt
 > Discover the essentials of exercise equipment shipping China to USA, including costs, customs, and logistics for a smooth import process.
