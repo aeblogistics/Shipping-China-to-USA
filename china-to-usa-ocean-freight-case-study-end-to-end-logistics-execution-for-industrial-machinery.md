@@ -11,7 +11,7 @@ author: AEB Logistics
 > Gain expert tips on managing China to USA ocean freight, from container optimization to customs compliance, ensuring smooth and cost-effective delivery.
 
 ---
-![China to USA Ocean Freight Case Study - AEB Logistics](china-to-usa/China-to-USA-Ocean-Freight-Case-Study-AEB-Logistics.jpg)
+![China to USA Ocean Freight Case Study - AEB Logistics](https://aeblogistics.com/wp-content/uploads/2026/04/China-to-USA-Ocean-Freight-Case-Study-AEB-Logistics.jpg)
 
 [China to USA Ocean Freight](https://aeblogistics.com/freight-shipping-from-china-to-usa/) is one of the busiest trade routes out there, and it’s not getting any simpler. Let’s dig into a real shipment—moving a [LASER CUTTING MACHINE](https://aeblogistics.com/laser-cutting-machine-shipping-china-to-usa/) from China to the U.S.—and see what actually happens step by step.
 
