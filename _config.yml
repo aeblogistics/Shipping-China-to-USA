@@ -1,3 +1,7 @@
-title: AEB Logistics Blog
-description: Shipping from China to USA guides
-theme: minima
+title: Shipping China to USA | AEB Logistics
+baseurl: "/Shipping-China-to-USA"
+url: "https://aeblogistics.github.io"
+remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
