@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f5f7fa;
+            color: #333;
+            line-height: 1.7;
+        }
+
+        /* 顶部导航 */
+        header {
+            background: linear-gradient(135deg, #c0392b, #e74c3c);
+            color: #fff;
+            padding: 16px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+
+        .logo {
+            font-size: 20px;
+            font-weight: 800;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo .flag { font-size: 22px; }
+
+        nav a {
+            color: #fff;
+            margin-left: 24px;
+            font-size: 14px;
+            text-decoration: none;
+            opacity: 0.85;
+        }
+
+        nav a:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+
+        /* 英雄区域 */
+        .hero {
+            background: linear-gradient(135deg, #c0392b 0%, #922b21 100%);
+            color: #fff;
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        .hero h1 {
+            font-size: 36px;
+            margin-bottom: 16px;
+            font-weight: 800;
+        }
+
+        .hero p {
+            font-size: 18px;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* 内容区域 */
+        main {
+            max-width: 960px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .content-box {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+            padding: 40px;
+            margin-bottom: 30px;
+        }
+
+        main h1 {
+            font-size: 28px;
+            color: #c0392b;
+            margin-bottom: 16px;
+        }
+
+        main h2 {
+            font-size: 22px;
+            color: #c0392b;
+            margin: 28px 0 12px;
+            border-bottom: 2px solid #fdf2f2;
+            padding-bottom: 8px;
+        }
+
+        main h3 {
+            font-size: 18px;
+            color: #333;
+            margin: 20px 0 10px;
+        }
+
+        main p {
+            margin-bottom: 16px;
+            color: #555;
+        }
+
+        main ul, main ol {
+            margin: 12px 0 16px 24px;
+        }
+
+        main ul li, main ol li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        main a {
+            color: #c0392b;
+            text-decoration: none;
+        }
+
+        main a:hover {
+            text-decoration: underline;
+        }
+
+        main hr {
+            border: none;
+            border-top: 1px solid #eee;
+            margin: 28px 0;
+        }
+
+        main blockquote {
+            background: #fdf2f2;
+            border-left: 4px solid #c0392b;
+            padding: 16px 20px;
+            border-radius: 0 8px 8px 0;
+            color: #555;
+            margin: 16px 0;
+        }
+
+        main table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0;
+            font-size: 15px;
+        }
+
+        main th {
+            background: #c0392b;
+            color: #fff;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        main td {
+            padding: 10px 16px;
+            border-bottom: 1px solid #eee;
+        }
+
+        main tr:hover td {
+            background: #fdf2f2;
+        }
+
+        main code {
+            background: #f5f7fa;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #c0392b;
+        }
+
+        /* CTA 按钮 */
+        .cta-box {
+            background: linear-gradient(135deg, #c0392b, #922b21);
+            color: #fff;
+            text-align: center;
+            padding: 40px 20px;
+            border-radius: 12px;
+            margin: 30px 0;
+        }
+
+        .cta-box h2 {
+            color: #fff !important;
+            border: none !important;
+            margin-bottom: 12px;
+        }
+
+        .cta-box p {
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 20px;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            background: #fff;
+            color: #c0392b !important;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 8px;
+            font-size: 16px;
+            text-decoration: none !important;
+            transition: transform 0.2s;
+        }
+
+        .cta-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* 页脚 */
+        footer {
+            background: #1a1a1a;
+            color: #888;
+            text-align: center;
+            padding: 30px;
+            font-size: 13px;
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: #aaa;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        footer a:hover { color: #fff; }
+
+        /* 响应式 */
+        @media (max-width: 768px) {
+            header { padding: 16px 20px; }
+            .hero h1 { font-size: 26px; }
+            .hero p { font-size: 15px; }
+            .content-box { padding: 24px; }
+            nav a { margin-left: 12px; font-size: 13px; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <span class="flag">🇨🇳➡️🇺🇸</span>
+            AEB Logistics
+        </div>
+        <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/shipping-guide">Shipping Guide</a>
+            <a href="{{ site.baseurl }}/customs">Customs</a>
+            <a href="{{ site.baseurl }}/faq">FAQ</a>
+            <a href="https://aeblogistics.com" target="_blank">Get a Quote</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="content-box">
+            {{ content }}
+        </div>
+
+        <div class="cta-box">
+            <h2>Ready to Ship from China to USA?</h2>
+            <p>Get a free quote from our logistics experts today.</p>
+            <a href="https://aeblogistics.com" class="cta-btn" target="_blank">
+                Get a Free Quote →
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 AEB Logistics. All rights reserved.</p>
+        <p style="margin-top:10px;">
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="https://aeblogistics.com" target="_blank">Main Site</a>
+            <a href="https://support.aeblogistics.com" target="_blank">Support</a>
+        </p>
+    </footer>
+
+</body>
+</html>
