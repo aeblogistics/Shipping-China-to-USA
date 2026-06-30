@@ -1,28 +1,26 @@
-name: Generate Sitemap
+name: Crawl and Generate Sitemap
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 0 * * 0'  # 每周自动运行
+    - cron: '0 0 * * *'  # 每天运行
+  workflow_dispatch:
 
 jobs:
-  sitemap:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+      
+      - name: Install sitemap-generator-cli
+        run: npm install -g sitemap-generator-cli
+      
       - name: Generate Sitemap
-        uses: cicirello/generate-sitemap@v1
-        with:
-          base-url-path: https://aeblogistics.github.io/Shipping-China-to-USA/
-          path-to-root: .
-
-      - name: Commit Sitemap
+        run: sitemap-generator https://aeblogistics.github.io/Shipping-China-to-USA/ -f sitemap.xml
+      
+      - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add sitemap.xml
-          git diff --staged --quiet || git commit -m "Update sitemap.xml"
+          git commit -m "Auto update sitemap" || exit 0
           git push
