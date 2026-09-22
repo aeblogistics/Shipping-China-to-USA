@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen and Shanghai Freight Forwarder to USA | AEB Logistics"
+title: "Shenzhen and Shanghai Freight Forwarder to USA"
 date: "2026-09-22"
 author: AEB Logistics
 categories: []
