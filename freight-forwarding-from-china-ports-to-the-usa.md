@@ -1,5 +1,5 @@
 ---
-title: "Freight Forwarding from China Ports to the USA | AEB Logistics"
+title: "Freight Forwarding from China Ports to the USA"
 date: "2026-09-21"
 author: AEB Logistics
 categories: []
