@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen to USA Ocean Freight Forwarder | AEB Logistics"
+title: "Shenzhen to USA Ocean Freight Forwarder"
 date: "2026-09-25"
 author: AEB Logistics
 categories: []
