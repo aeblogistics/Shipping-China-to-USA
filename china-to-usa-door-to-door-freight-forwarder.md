@@ -1,5 +1,5 @@
 ---
-title: "China to USA Door-to-Door Freight Forwarder | AEB Logistics"
+title: "China to USA Door-to-Door Freight Forwarder"
 date: "2026-09-25"
 author: AEB Logistics
 categories: []
