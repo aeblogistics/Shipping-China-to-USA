@@ -198,7 +198,13 @@ If you ship pillows weighing 100 kg but they take up 2 CBM, you’ll pay for 2 C
 
 **Actual weight** is just what your shipment weighs. **Volumetric weight** turns the space your cargo takes up into a weight number. **Chargeable weight** is whichever is higher—actual or volumetric.
 
-     Weight Type Air Freight Formula Ocean Freight Formula     Actual Weight Scale measurement in kg Scale measurement in kg   Volumetric Weight (L x W x H cm) ÷ 5,000 (L x W x H cm) ÷ 1,000,000 = CBM   Chargeable Weight Higher of the two Higher of the two    Say you ship 200 kg of clothing in cartons that measure 100cm x 80cm x 60cm each. Your volumetric weight is 96 kg per carton, so you pay for actual weight. But if you’re shipping foam at 50 kg in the same carton, you pay for 96 kg volumetric weight instead.
+| Weight Type | Air Freight Formula | Ocean Freight Formula |
+|---|---|---|
+| Actual Weight | Scale measurement in kg | Scale measurement in kg |
+| Volumetric Weight | (L x W x H cm) ÷ 5,000 | (L x W x H cm) ÷ 1,000,000 = CBM |
+| Chargeable Weight | Higher of the two | Higher of the two |
+
+Say you ship 200 kg of clothing in cartons that measure 100cm x 80cm x 60cm each. Your volumetric weight is 96 kg per carton, so you pay for actual weight. But if you’re shipping foam at 50 kg in the same carton, you pay for 96 kg volumetric weight instead.
 
 ### Effect of Packaging and Carton Size
 
