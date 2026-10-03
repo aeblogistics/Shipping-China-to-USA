@@ -59,7 +59,12 @@ DDP is pretty different from other shipping terms you’ll see when importing fr
 
 With CIF (Cost, Insurance, and Freight), the seller pays ocean freight and insurance to the destination port, but you still handle customs, duties, and delivery to your door. EXW (Ex Works) puts nearly all responsibility on you, starting from factory pickup.
 
-     **Shipping Term** **Seller Pays** **Buyer Pays**     **DDP** Freight, duties, taxes, delivery Nothing additional   **FOB** Export costs, loading Ocean freight, customs, duties, delivery   **CIF** Freight to port, insurance Customs, duties, inland transport   **EXW** Nothing (factory pickup only) All shipping and import costs    
+| Shipping Term | Seller Pays | Buyer Pays |
+|---|---|---|
+| DDP | Freight, duties, taxes, delivery | Nothing additional |
+| FOB | Export costs, loading | Ocean freight, customs, duties, delivery |
+| CIF | Freight to port, insurance | Customs, duties, inland transport |
+| EXW | Nothing (factory pickup only) | All shipping and import costs |
 
 ### Benefits for Importers
 
