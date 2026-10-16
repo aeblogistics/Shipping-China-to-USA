@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen Pickup to USA Delivery Freight Forwarder | AEB Logistics"
+title: "Shenzhen Pickup to USA Delivery Freight Forwarder"
 date: "2026-10-09"
 author: AEB Logistics
 categories: []
