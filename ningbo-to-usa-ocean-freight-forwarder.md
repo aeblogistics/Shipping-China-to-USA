@@ -1,5 +1,5 @@
 ---
-title: "Ningbo to USA Ocean Freight Forwarder | AEB Logistics"
+title: "Ningbo to USA Ocean Freight Forwarder"
 date: "2026-10-11"
 author: AEB Logistics
 categories: []
