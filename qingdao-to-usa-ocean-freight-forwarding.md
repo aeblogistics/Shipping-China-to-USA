@@ -1,5 +1,5 @@
 ---
-title: "Qingdao to USA Ocean Freight Forwarding | AEB Logistics"
+title: "Qingdao to USA Ocean Freight Forwarding"
 date: "2026-10-11"
 author: AEB Logistics
 categories: []
