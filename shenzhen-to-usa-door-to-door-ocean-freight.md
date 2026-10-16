@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen to USA Door-to-Door Ocean Freight | AEB Logistics"
+title: "Shenzhen to USA Door-to-Door Ocean Freight"
 date: "2026-10-07"
 author: AEB Logistics
 categories: []
