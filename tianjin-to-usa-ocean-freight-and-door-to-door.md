@@ -1,5 +1,5 @@
 ---
-title: "Tianjin to USA Ocean Freight and Door to Door | AEB Logistics"
+title: "Tianjin to USA Ocean Freight and Door to Door"
 date: "2026-10-08"
 author: AEB Logistics
 categories: []
