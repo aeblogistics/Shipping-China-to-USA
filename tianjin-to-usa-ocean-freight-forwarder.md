@@ -1,5 +1,5 @@
 ---
-title: "Tianjin to USA Ocean Freight Forwarder | AEB Logistics"
+title: "Tianjin to USA Ocean Freight Forwarder"
 date: "2026-10-10"
 author: AEB Logistics
 categories: []
