@@ -28,8 +28,10 @@ jobs:
       - name: Generate Sitemap
         run: |
           sitemap-generator https://aeblogistics.github.io/Shipping-China-to-USA/ -f sitemap.xml
-          # 在生成的 sitemap.xml 文件最前面插入 XML 声明
-          echo '<?xml version="1.0" encoding="UTF-8"?>' | cat - sitemap.xml > temp && mv temp sitemap.xml
+          # 确保文件第一行是标准的 XML 声明，且不会重复添加
+          if ! head -n 1 sitemap.xml | grep -q "<?xml"; then
+            echo '<?xml version="1.0" encoding="UTF-8"?>' | cat - sitemap.xml > temp.xml && mv temp.xml sitemap.xml
+          fi
 
       - name: Commit changes
         run: |
