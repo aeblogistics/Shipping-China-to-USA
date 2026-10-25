@@ -38,7 +38,13 @@ Sea freight is by far the most cost-effective way to move high-volume shipments 
 
 **LCL shipping** lets you share space with other importers. You’ll pay $40-$80 per cubic meter, which makes sense for shipments between 2-15 cubic meters. LCL usually takes 30-40 days because your goods get consolidated at both ends.
 
-     **Container Type** **Cost Range** **Transit Time** **Best For**     20ft FCL $1,800-$3,400 25-35 days 15-25 CBM   40ft FCL $2,500-$5,500 25-35 days 25+ CBM   LCL $40-$80/CBM 30-40 days 2-15 CBM    ### Air Freight Shipping from China to United States
+| Container Type | Cost Range | Transit Time | Best For |
+| :--- | :--- | :--- | :--- |
+| 20ft FCL | $1,800–$3,400 | 25–35 days | 15–25 CBM |
+| 40ft FCL | $2,500–$5,500 | 25–35 days | 25+ CBM |
+| LCL | $40–$80/CBM | 30–40 days | 2–15 CBM |
+     
+### Air Freight Shipping from China to United States
 
 [Air freight](https://aeblogistics.com/air-freight-shipping-from-china-to-usa/) is much faster than sea freight, but it’s not cheap. Standard [air freight shipping from China to the USA](https://topshipping.co/shipping-routes/shipping-from-china-to-us/) costs $4-$8 per kilogram, with deliveries in 5-10 days, door to door.
 
