@@ -84,7 +84,13 @@ Your shipment size pretty much decides which shipping method is best. FCL is goo
 
 **Container specs:**
 
-     Container Type Internal Length Internal Width Internal Height Capacity     20-foot standard 19’4″ 7’8″ 7’10” 33 cubic meters   40-foot standard 39’5″ 7’8″ 7’10” 67 cubic meters   40-foot high cube 39’5″ 7’8″ 8’10” 76 cubic meters    High-volume shipments really benefit from FCL. The more you load, the lower your cost per unit gets.
+| Container Type | Internal Length | Internal Width | Internal Height | Capacity |
+| :--- | :--- | :--- | :--- | :--- |
+| 20-foot standard | 19’4″ | 7’8″ | 7’10” | 33 cubic meters |
+| 40-foot standard | 39’5″ | 7’8″ | 7’10” | 67 cubic meters |
+| 40-foot high cube | 39’5″ | 7’8″ | 8’10” | 76 cubic meters |
+
+High-volume shipments really benefit from FCL. The more you load, the lower your cost per unit gets.
 
 ## Air Freight and Express Shipping from China to United States: Options and Steps
 
@@ -108,7 +114,13 @@ When you’re shipping from China to United States, express air freight services
 
 **Major Express Services:**
 
-     Service Typical Transit Time Best For     FedEx International Priority 1-3 business days Urgent, high-value items   DHL Express Worldwide 2-4 business days Documents and small parcels   UPS Worldwide Expedited 2-5 business days Mid-weight shipments    Express couriers are ideal for packages under 150 pounds. They charge based on both actual and dimensional weight, so if you’re shipping compact and heavy items, you’ll get better rates.
+| Service | Typical Transit Time | Best For |
+| :--- | :--- | :--- |
+| FedEx International Priority | 1-3 business days | Urgent, high-value items |
+| DHL Express Worldwide | 2-4 business days | Documents and small parcels |
+| UPS Worldwide Expedited | 2-5 business days | Mid-weight shipments |
+
+Express couriers are ideal for packages under 150 pounds. They charge based on both actual and dimensional weight, so if you’re shipping compact and heavy items, you’ll get better rates.
 
 Door-to-door service includes full tracking and insurance options. That’s a relief if you want peace of mind or need to keep an eye on every step.
 
