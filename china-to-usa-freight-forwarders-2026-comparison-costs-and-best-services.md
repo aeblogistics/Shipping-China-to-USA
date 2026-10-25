@@ -131,7 +131,14 @@ Platforms like **Freightos** let you stack up multiple quotes side-by-side and s
 
 **Surcharges** can add a lot beyond base rates:
 
-     Surcharge Type Typical Range When Applied     Fuel surcharge (BAF) 10-25% of base rate All shipments   **Peak season surcharges** $500-$1,500 per container July-October, pre-holidays   Security fees $25-$50 All air and ocean   Container imbalance $200-$600 When equipment scarce    **Peak season surcharges** hit hardest during Chinese New Year (January–February) and the pre-Christmas rush (September–November).
+| Surcharge Type | Typical Range | When Applied |
+| :--- | :--- | :--- |
+| Fuel surcharge (BAF) | 10–25% of base rate | All shipments |
+| Peak season surcharges | $500–$1,500 per container | July–October, pre-holidays |
+| Security fees | $25–$50 | All air and ocean |
+| Container imbalance | $200–$600 | When equipment scarce |
+
+**Peak season surcharges** hit hardest during Chinese New Year (January–February) and the pre-Christmas rush (September–November).
 
 Forwarders with carrier contracts usually snag better rates than those booking spot market capacity. Ask your forwarder how they handle surcharges—some eat minor changes, others pass every fee on right away.
 
