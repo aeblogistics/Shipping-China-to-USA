@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen to USA Ocean Shipping with Door Delivery | AEB"
+title: "Shenzhen to USA Ocean Shipping with Door Delivery"
 date: "2026-10-28"
 author: AEB Logistics
 categories: []
