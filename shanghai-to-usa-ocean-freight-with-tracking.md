@@ -1,5 +1,5 @@
 ---
-title: "Shanghai to USA Ocean Freight with Tracking | AEB Logistics"
+title: "Shanghai to USA Ocean Freight with Tracking"
 date: "2026-11-09"
 author: AEB Logistics
 categories: []
