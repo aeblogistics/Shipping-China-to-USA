@@ -1,5 +1,5 @@
 ---
-title: "Shanghai to USA Shipping with Supplier Consolidation | AEB"
+title: "Shanghai to USA Shipping with Supplier Consolidation"
 date: "2026-10-27"
 author: AEB Logistics
 categories: []
