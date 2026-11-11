@@ -109,95 +109,22 @@ C.H. Robinson suits importers who are comfortable with rate fluctuations in exch
 
 Comparing Shanghai agents means looking past the headline rate to see what’s actually included once cargo clears customs and reaches a US address. Three factors separate a workable quote from one that leads to change orders: what the DDP quote covers, how flexible the freight options are, and who coordinates customs and delivery.
 
-     Agent
+| Agent | DDP Quote Scope | FCL/LCL Flexibility | FBA Delivery Support |
+| :--- | :--- | :--- | :--- |
+| **AEB Logistics** | Itemized, customs ~$125 add-on | Both, 20ft/40ft/40ft HC | Appointment scheduling, labeling |
+| **Kuehne+Nagel** | Custom quote | Both, global network | Available, enterprise scale |
+| **DHL Global Forwarding**| Custom quote | Air-focused, ocean available | Limited public detail |
+| **DSV** | Custom quote | Both, multi-region | Available, enterprise scale |
+| **Flexport** | Itemized by component | Both, partner carriers | Dashboard tracking |
+| **Maersk** | Carrier-direct pricing | FCL primary | Requires separate partner |
+| **CEVA Logistics** | Custom quote | Both | Available via contract logistics |
+| **Expeditors** | Custom quote, itemized add-ons | Both | Compliance-focused |
+| **Sinotrans** | Custom quote | Both, high volume | Confirm for US destination |
+| **C.H. Robinson** | Broker-rate, variable | Both, consolidation | Confirm for US destination |
 
-  DDP Quote Scope
 
-  FCL/LCL Flexibility
 
-  FBA Delivery Support
-
-    AEB Logistics
-
-  Itemized, customs ~$125 add-on
-
-  Both, 20ft/40ft/40ft HC
-
-  Appointment scheduling, labeling
-
-    Kuehne+Nagel
-
-  Custom quote
-
-  Both, global network
-
-  Available, enterprise scale
-
-    DHL Global Forwarding
-
-  Custom quote
-
-  Air-focused, ocean available
-
-  Limited public detail
-
-    DSV
-
-  Custom quote
-
-  Both, multi-region
-
-  Available, enterprise scale
-
-    Flexport
-
-  Itemized by component
-
-  Both, partner carriers
-
-  Dashboard tracking
-
-    Maersk
-
-  Carrier-direct pricing
-
-  FCL primary
-
-  Requires separate partner
-
-    CEVA Logistics
-
-  Custom quote
-
-  Both
-
-  Available via contract logistics
-
-    Expeditors
-
-  Custom quote, itemized add-ons
-
-  Both
-
-  Compliance-focused
-
-    Sinotrans
-
-  Custom quote
-
-  Both, high volume
-
-  Confirm for US destination
-
-    C.H. Robinson
-
-  Broker-rate, variable
-
-  Both, consolidation
-
-  Confirm for US destination
-
-     ### What Does a DDP Quote Actually Include?
+### What Does a DDP Quote Actually Include?
 
 A DDP quote should name four cost buckets: ocean or air freight, export customs in China, import customs and duties in the USA, and last-mile delivery. Some agents bundle all four into one number. Others, like Flexport, list freight, customs, and inland transport as separate line items for you to add up.
 
