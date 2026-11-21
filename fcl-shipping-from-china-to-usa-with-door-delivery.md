@@ -1,5 +1,5 @@
 ---
-title: "FCL Shipping from China to USA with Door Delivery | AEB"
+title: "FCL Shipping from China to USA with Door Delivery"
 date: "2026-11-21"
 author: AEB Logistics
 categories: []
