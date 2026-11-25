@@ -30,51 +30,11 @@ A 40-foot container holds about 67 CBM, roughly double the space, which often lo
 
     
 
-Container
-
-  
-
-Approx. capacity
-
-  
-
-Good fit
-
-    
-
-20ft container
-
-  
-
-33 CBM
-
-  
-
-Dense, heavy cargo (or reefer container for cold chain)
-
-    
-
-40ft
-
-  
-
-67 CBM
-
-  
-
-Larger orders, lower cost per CBM
-
-    
-
-40ft High Cube
-
-  
-
-76 CBM
-
-  
-
-Light, bulky goods
+| Container | Approx. capacity | Good fit |
+| :--- | :--- | :--- |
+| 20ft container | 33 CBM | Dense, heavy cargo (or reefer container for cold chain) |
+| 40ft | 67 CBM | Larger orders, lower cost per CBM |
+| 40ft High Cube | 76 CBM | Light, bulky goods |
 
      
 
